@@ -2,7 +2,7 @@ import requests
 import sqlite3
 from datetime import datetime
 
-chave = "ff88dbb3"
+chave = "DIGITE SUA CHAVE AQUI"
 url = f"https://api.hgbrasil.com/finance?format=json-cors&key={chave}" 
 #F substitui o formato
 
